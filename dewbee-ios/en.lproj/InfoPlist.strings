@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  dewbee-ios
+
+  Created by 이연주 on 11/29/24.
+  
+*/
+
+"NSCameraUsageDescription" = "Allow access to the camera to edit your profile avatar?";
+"NSPhotoLibraryDescription" = "Requesting access to your photo library to edit your profile avatar!";
+"NSMicrophoneUsageDescription" = "Allow access to the microphone to edit your profile avatar?";
+
