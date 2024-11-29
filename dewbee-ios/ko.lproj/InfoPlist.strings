@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  dewbee-ios
+
+  Created by 이연주 on 11/29/24.
+  
+*/
+
+"NSCameraUsageDescription" = "프로필의 아바타 수정하기 위한 카메라에 접근하도록 허용하시겠습니까?";
+"NSPhotoLibraryDescription" = "프로필의 아바타 사진을 수정하기 위한 사진첩 접근권한 요청이에요!";
+"NSMicrophoneUsageDescription" = "프로필의 아바타 사진을 수정하기 위한 마이크에 접근하도록 허용하시겠습니까?";
