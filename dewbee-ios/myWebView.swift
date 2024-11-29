@@ -115,12 +115,3 @@ struct MyWebView: UIViewRepresentable {
         return nil
     }
 }
-
-struct MyWebView_Previews: PreviewProvider {
-    static var previews: some View {
-        MyWebView(urlToLoad: "https://dewbee.dewdew.world")
-            .edgesIgnoringSafeArea(.bottom)
-            .scrollIndicators(.never, axes: [.vertical, .horizontal])
-    }
-}
-
