@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Monitor_Test
+@testable import dewbee_ios
 
 final class Monitor_TestTests: XCTestCase {
 
